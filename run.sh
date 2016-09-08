@@ -5,7 +5,7 @@
 tput setaf 3
 
 cat << EOF
-Raspberry Pi 3 
+Raspberry Pi 3 Access Point 
 
 EOF
 
