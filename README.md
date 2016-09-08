@@ -137,9 +137,11 @@ sudo nano /etc/rc.local
 
 ```bash
 iptables-restore < /etc/iptables.ipv4.nat
+```
+```bash
 sudo service hostapd start 
 sudo service dnsmasq start  
-sudo reboot
 ```
+- reboot your device 
 
--  enjoy
+#enjoy :P
